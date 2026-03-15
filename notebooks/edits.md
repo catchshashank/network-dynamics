@@ -23,6 +23,6 @@
    - direction of interaction
    - creator vs user relationships
 10) Produce clear “focal graphs”
-   - simple focal graphs
-   - clear demonstration of reshuffling
-   - intuitive figures before complex models
+    - simple focal graphs
+    - clear demonstration of reshuffling
+    - intuitive figures before complex models
